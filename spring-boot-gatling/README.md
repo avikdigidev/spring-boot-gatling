@@ -1,3 +1,6 @@
+# spring-boot-gatling
+POC on integrating springboot with Gatling Performance Tests
+
 A sample app to demonstrate revealing a performance problems with load testing.
 
 ## Usage
